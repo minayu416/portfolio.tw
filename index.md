@@ -9,6 +9,8 @@ layout: default
 
 這個網站將記錄所有我參與過的產品、專案及個人開發的創意作品。
 
+<br>
+
 ## 特色 | 個人作品
 
 <span id="luna-acuario">**[月水瓶 @MINA 的人生研究室](https://minayu.site/) (2019/1- )**</span>
@@ -81,7 +83,7 @@ layout: default
 
 <br>
 
-### In University Time
+### 研究所時期
 
 <span id="vulnerable-families-project">**弱勢家庭的資料建置與資料研究分析 (2017/04-2018/06)**</span>
 
@@ -93,7 +95,9 @@ layout: default
 
 <span id="bonus-system-software">**[加分系統 (2018/04-2018/06)](https://github.com/minayu416/AddPoint)**</span>
 
-一個Python的桌機程式來驗證碩士論文的假設理論: 透過獎勵機制提升線上課程的完課率-以程式設計課程為例。增加 MOOC 線上平台的課程完成率，透過學生在課堂上實際參與線上課程，紀錄學生的鍵盤、滑鼠及瀏覽器歷史活動並計算出一個分數，秀出分數讓學生感受到完課的成就感，並提高學習的意願。
+一個Python的桌機程式來驗證碩士論文的假設理論: 透過獎勵機制提升線上課程的完課率-以程式設計課程為例。
+
+增加 MOOC 線上平台的課程完成率，透過學生在課堂上實際參與線上課程，紀錄學生的鍵盤、滑鼠及瀏覽器歷史活動並計算出一個分數，秀出分數讓學生感受到完課的成就感，並提高學習的意願。
 
 技術: #Python2 #Django #Tkinder
 
@@ -111,7 +115,7 @@ layout: default
 
 獨立設計並實作網站，與辦公室行政人員討論。
 
-在辦公室將網站捨棄後，重新製作成Demo
+在辦公室將網站捨棄後，重新製作成Demo。
 
 GitHub: [https://github.com/minayu416/ir-web-demo](https://github.com/minayu416/ir-web-demo)
 
